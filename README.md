@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Bhandari</h1>
-<img alt="coding" width="100%" height="40%" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img alt="coding" width="100%" height="430" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandezh&label=Profile%20views&color=0e75b6&style=flat" alt="sandezh" /> </p>
 
