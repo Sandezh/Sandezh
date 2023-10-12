@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **sandeshbhandari1000@gmail.com**
+- 📫 How to reach me **sandeshbhandari1000@gmail.com**.
 
 - ⚡ Fun fact **1+1=2**
 
