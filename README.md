@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandezh&label=Profile%20views&color=0e75b6&style=flat" alt="sandezh" /> </p>
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me : **sandeshbhandari1000@gmail.com**
 
